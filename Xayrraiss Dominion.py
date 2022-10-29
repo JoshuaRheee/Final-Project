@@ -1,6 +1,10 @@
 import time
 import random
 
+#comment
+#hello afsdjkhfdsaf
+
+
 speed = 1
 
 """

@@ -1,17 +1,14 @@
 import time
 import random
 
-#comment
-#hello afsdjkhfdsaf
-
-
 speed = 1
 
 """
-Setup
+Class Stat Setup
+Stats are listed in an array as HP, MP, Defense, Magic Defense, Attack, Magic Attack, Health Regen, and Critical Srike, Experience Gain, and Dodge Chance
 """
 
-Class = ""
+Class = "" #Class will later be assigned via user  input
 Wizard = [80, 120, 8, 12, 6, 12, 2, 6, 0, 100, 0]
 Paladin = [120, 100, 12, 8, 10, 8, 2, 4, 0, 100, 0]
 Berserker = [110, 80, 8, 8, 12, 6, 2, 6, 5, 100, 0]
